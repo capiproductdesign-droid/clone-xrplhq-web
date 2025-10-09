@@ -1,4 +1,4 @@
-// File: C:\Users\DUNG LE\OneDrive\Desktop\capibara_code_du_an\XRPL-HQ\src\app\layout.tsx
+// File: C:\Users\DUNG LE\OneDrive\Desktop\du-an-animationweb\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

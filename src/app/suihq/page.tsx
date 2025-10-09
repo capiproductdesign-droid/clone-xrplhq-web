@@ -63,51 +63,52 @@ const projects: ProjectCard[] = [
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
   },
-//   {
-//     id: 'root-network',
-//     title: 'Root Network',
-//     description: "Revolutionary AI and metaverse technologies.",
-//     url: '',
-//     img_url: '/XRP/Root Network.png',
-//     position: { x: 250, y: 0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'axelar',
-//     title: 'Axelar',
-//     description: 'Tokenize, trade, and earn yield through a single development platform.',
-//     url: '',
-//     img_url: '/XRP/Axelar.png',
-//     position: { x: 77.25, y: 238.5 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'xrp-toolkit',
-//     title: 'XRP Toolkit',
-//     description: 'XRP Toolkit is a platform for managing crypto assets on the XRPL.',
-//     url: '',
-//     img_url: '/XRP/XRP Toolkit.png',
-//     position: { x: -202.25, y: 147.0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'digital-wealth-partners',
-//     title: 'Digital Wealth Partners',
-//     description: 'Unlock the Future of Wealth with Digital Assets',
-//     url: '',
-//     img_url: '/XRP/Digital Wealth Partners.png',
-//     position: { x: -202.25, y: -147.0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'spendthebits',
-//     title: 'SpendTheBits',
-//     description: 'Seamless, secure, and instant payment solution that bridges the gap between traditional and digital currencies',
-//     url: '',
-//     img_url: '/XRP/SpendTheBits.png',
-//     position: { x: 77.25, y: -238.5 },
-//     orbit: 'outer'
-//   }
+  //outer
+  {
+    id: 'suilend',
+    title: 'Suilend',
+    description: "infinite liquid staking, and superfluid DEX.",
+    url: '',
+    img_url: '/XRP/suilend.png',
+    position: { x: 250, y: 0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'misten-labs',
+    title: 'Misten Labs',
+    description: 'Shaping the future of the internet.',
+    url: '',
+    img_url: '/XRP/mistenlabs.png',
+    position: { x: 77.25, y: 238.5 },
+    orbit: 'outer'
+  },
+  {
+    id: 'cetus',
+    title: 'Cetus',
+    description: 'The leading DEX and liquidity infra on SUI.',
+    url: '',
+    img_url: '/XRP/cetus.png',
+    position: { x: -202.25, y: 147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'walrus',
+    title: 'Walrus',
+    description: 'The first decentralized data storage built on SUI.',
+    url: '',
+    img_url: '/XRP/walrus.png',
+    position: { x: -202.25, y: -147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'delorean-labs',
+    title: 'Delorean Labs',
+    description: 'The Official DeLorean Motor Company Web3 account.',
+    url: '',
+    img_url: '/XRP/deloreanlabs.png',
+    position: { x: 77.25, y: -238.5 },
+    orbit: 'outer'
+  },
  ]
 
 export default function Home() {

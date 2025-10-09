@@ -63,51 +63,52 @@ const projects: ProjectCard[] = [
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
   },
-//   {
-//     id: 'root-network',
-//     title: 'Root Network',
-//     description: "Revolutionary AI and metaverse technologies.",
-//     url: '',
-//     img_url: '/XRP/Root Network.png',
-//     position: { x: 250, y: 0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'axelar',
-//     title: 'Axelar',
-//     description: 'Tokenize, trade, and earn yield through a single development platform.',
-//     url: '',
-//     img_url: '/XRP/Axelar.png',
-//     position: { x: 77.25, y: 238.5 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'xrp-toolkit',
-//     title: 'XRP Toolkit',
-//     description: 'XRP Toolkit is a platform for managing crypto assets on the XRPL.',
-//     url: '',
-//     img_url: '/XRP/XRP Toolkit.png',
-//     position: { x: -202.25, y: 147.0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'digital-wealth-partners',
-//     title: 'Digital Wealth Partners',
-//     description: 'Unlock the Future of Wealth with Digital Assets',
-//     url: '',
-//     img_url: '/XRP/Digital Wealth Partners.png',
-//     position: { x: -202.25, y: -147.0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'spendthebits',
-//     title: 'SpendTheBits',
-//     description: 'Seamless, secure, and instant payment solution that bridges the gap between traditional and digital currencies',
-//     url: '',
-//     img_url: '/XRP/SpendTheBits.png',
-//     position: { x: 77.25, y: -238.5 },
-//     orbit: 'outer'
-//   }
+  //outer
+  {
+    id: 'r3-corda',
+    title: 'R3 Corda',
+    description: "The award-winning real-world asset (RWA) tokenization platform.",
+    url: '',
+    img_url: '/XRP/r3corda.png',
+    position: { x: 250, y: 0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'archax',
+    title: 'Archax',
+    description: 'Bridging Traditional Finance into Digital Assets on the XDC Network.',
+    url: '',
+    img_url: '/XRP/archax.png',
+    position: { x: 77.25, y: 238.5 },
+    orbit: 'outer'
+  },
+  {
+    id: 'circle',
+    title: 'Circle',
+    description: 'Bringing regulated stablecoin and crosschain transfers to XDC for trade, RWA, DeFi.',
+    url: '',
+    img_url: '/XRP/circle.png',
+    position: { x: -202.25, y: 147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'securitize',
+    title: 'Securitize',
+    description: 'Integrated with XDC to issue tokenized U.S. Treasury products on-chain.',
+    url: '',
+    img_url: '/XRP/securitize.png',
+    position: { x: -202.25, y: -147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'tradeteq',
+    title: 'TradeTeq',
+    description: 'Creating sustainable wealth through trade finance investing.',
+    url: '',
+    img_url: '/XRP/tradeteq.png',
+    position: { x: 77.25, y: -238.5 },
+    orbit: 'outer'
+  },
  ]
 
 export default function Home() {

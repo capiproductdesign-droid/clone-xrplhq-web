@@ -63,51 +63,52 @@ const projects: ProjectCard[] = [
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
   },
-//   {
-//     id: 'root-network',
-//     title: 'Root Network',
-//     description: "Revolutionary AI and metaverse technologies.",
-//     url: '',
-//     img_url: '/XRP/Root Network.png',
-//     position: { x: 250, y: 0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'axelar',
-//     title: 'Axelar',
-//     description: 'Tokenize, trade, and earn yield through a single development platform.',
-//     url: '',
-//     img_url: '/XRP/Axelar.png',
-//     position: { x: 77.25, y: 238.5 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'xrp-toolkit',
-//     title: 'XRP Toolkit',
-//     description: 'XRP Toolkit is a platform for managing crypto assets on the XRPL.',
-//     url: '',
-//     img_url: '/XRP/XRP Toolkit.png',
-//     position: { x: -202.25, y: 147.0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'digital-wealth-partners',
-//     title: 'Digital Wealth Partners',
-//     description: 'Unlock the Future of Wealth with Digital Assets',
-//     url: '',
-//     img_url: '/XRP/Digital Wealth Partners.png',
-//     position: { x: -202.25, y: -147.0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'spendthebits',
-//     title: 'SpendTheBits',
-//     description: 'Seamless, secure, and instant payment solution that bridges the gap between traditional and digital currencies',
-//     url: '',
-//     img_url: '/XRP/SpendTheBits.png',
-//     position: { x: 77.25, y: -238.5 },
-//     orbit: 'outer'
-//   }
+  //outer
+  {
+    id: 'jito-labs',
+    title: 'Jito Labs',
+    description: "Jito Labs builds high performance Solana MEV infrastructure.",
+    url: '',
+    img_url: '/XRP/jito-labs.png',
+    position: { x: 250, y: 0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'radium',
+    title: 'Radium',
+    description: 'An on-chain order book AMM powering the evolution of DeFi.',
+    url: '',
+    img_url: '/XRP/radium.png',
+    position: { x: 77.25, y: 238.5 },
+    orbit: 'outer'
+  },
+  {
+    id: 'ondo-finance',
+    title: 'Ondo Finance',
+    description: 'Institutional-grade platforms, assets, and infrastructure to bring financial markets onchain.',
+    url: '',
+    img_url: '/XRP/ondo-finance.png',
+    position: { x: -202.25, y: 147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'superstate',
+    title: 'Superstate',
+    description: 'Connecting assets with crypto markets via on-chain listings and tokenized securities.',
+    url: '',
+    img_url: '/XRP/superstate.png',
+    position: { x: -202.25, y: -147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'sol',
+    title: 'SOL Strategies ',
+    description: 'Take a Stake into the Future of Solana’s potential.',
+    url: '',
+    img_url: '/XRP/sol.png',
+    position: { x: 77.25, y: -238.5 },
+    orbit: 'outer'
+  },
  ]
 
 export default function Home() {

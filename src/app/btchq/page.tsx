@@ -63,51 +63,51 @@ const projects: ProjectCard[] = [
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
   },
-//   {
-//     id: 'root-network',
-//     title: 'Root Network',
-//     description: "Revolutionary AI and metaverse technologies.",
-//     url: '',
-//     img_url: '/XRP/Root Network.png',
-//     position: { x: 250, y: 0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'axelar',
-//     title: 'Axelar',
-//     description: 'Tokenize, trade, and earn yield through a single development platform.',
-//     url: '',
-//     img_url: '/XRP/Axelar.png',
-//     position: { x: 77.25, y: 238.5 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'xrp-toolkit',
-//     title: 'XRP Toolkit',
-//     description: 'XRP Toolkit is a platform for managing crypto assets on the XRPL.',
-//     url: '',
-//     img_url: '/XRP/XRP Toolkit.png',
-//     position: { x: -202.25, y: 147.0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'digital-wealth-partners',
-//     title: 'Digital Wealth Partners',
-//     description: 'Unlock the Future of Wealth with Digital Assets',
-//     url: '',
-//     img_url: '/XRP/Digital Wealth Partners.png',
-//     position: { x: -202.25, y: -147.0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'spendthebits',
-//     title: 'SpendTheBits',
-//     description: 'Seamless, secure, and instant payment solution that bridges the gap between traditional and digital currencies',
-//     url: '',
-//     img_url: '/XRP/SpendTheBits.png',
-//     position: { x: 77.25, y: -238.5 },
-//     orbit: 'outer'
-//   }
+  {
+    id: 'lightning-network',
+    title: 'Lightning Network',
+    description: "Scalable, Instant Bitcoin/Blockchain Transactions.",
+    url: '',
+    img_url: '/XRP/lightning-network.png',
+    position: { x: 250, y: 0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'metaplanet',
+    title: 'Metaplanet',
+    description: 'Japan’s first and only publicly listed Bitcoin Treasury Company.',
+    url: '',
+    img_url: '/XRP/metaplanet.png',
+    position: { x: 77.25, y: 238.5 },
+    orbit: 'outer'
+  },
+  {
+    id: 'rootstock',
+    title: 'Rootstock',
+    description: 'Do more with Bitcoin on Rootstock.The Bitcoin DeFi Layer.',
+    url: '',
+    img_url: '/XRP/rootstock.png',
+    position: { x: -202.25, y: 147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'stacks',
+    title: 'Stacks',
+    description: 'Activate the Bitcoin economy with the leading Bitcoin L2.',
+    url: '',
+    img_url: '/XRP/stacks.png',
+    position: { x: -202.25, y: -147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'strategy',
+    title: 'Strategy',
+    description: 'Strategy helps you seamlessly integrate and engage with data.',
+    url: '',
+    img_url: '/XRP/strategy.png',
+    position: { x: 77.25, y: -238.5 },
+    orbit: 'outer'
+  },
  ]
 
 export default function Home() {

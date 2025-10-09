@@ -63,51 +63,52 @@ const projects: ProjectCard[] = [
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
   },
-//   {
-//     id: 'root-network',
-//     title: 'Root Network',
-//     description: "Revolutionary AI and metaverse technologies.",
-//     url: '',
-//     img_url: '/XRP/Root Network.png',
-//     position: { x: 250, y: 0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'axelar',
-//     title: 'Axelar',
-//     description: 'Tokenize, trade, and earn yield through a single development platform.',
-//     url: '',
-//     img_url: '/XRP/Axelar.png',
-//     position: { x: 77.25, y: 238.5 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'xrp-toolkit',
-//     title: 'XRP Toolkit',
-//     description: 'XRP Toolkit is a platform for managing crypto assets on the XRPL.',
-//     url: '',
-//     img_url: '/XRP/XRP Toolkit.png',
-//     position: { x: -202.25, y: 147.0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'digital-wealth-partners',
-//     title: 'Digital Wealth Partners',
-//     description: 'Unlock the Future of Wealth with Digital Assets',
-//     url: '',
-//     img_url: '/XRP/Digital Wealth Partners.png',
-//     position: { x: -202.25, y: -147.0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'spendthebits',
-//     title: 'SpendTheBits',
-//     description: 'Seamless, secure, and instant payment solution that bridges the gap between traditional and digital currencies',
-//     url: '',
-//     img_url: '/XRP/SpendTheBits.png',
-//     position: { x: 77.25, y: -238.5 },
-//     orbit: 'outer'
-//   }
+  //outer
+  {
+    id: 'velo',
+    title: 'VELO',
+    description: "Web3+ financial ecosystem for digital assets and borderlines transfers.",
+    url: '',
+    img_url: '/XRP/velo.png',
+    position: { x: 250, y: 0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'ondo-finance',
+    title: 'Ondo Finance',
+    description: 'Institutional-grade platforms, assets, and infrastructure to bring financial markets onchain.',
+    url: '',
+    img_url: '/XRP/ondo-finance.png',
+    position: { x: 77.25, y: 238.5 },
+    orbit: 'outer'
+  },
+  {
+    id: 'money-gram',
+    title: 'Money Gram',
+    description: 'Secure online money transfers .',
+    url: '',
+    img_url: '/XRP/money-gram.png',
+    position: { x: -202.25, y: 147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'franklin-templeton',
+    title: 'Franklin Templeton',
+    description: 'Helping you achieve your financial goals.',
+    url: '',
+    img_url: '/XRP/franklin-templeton.png',
+    position: { x: -202.25, y: -147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'paxos',
+    title: 'Paxos',
+    description: 'Global leaders use the Paxos platform to build their blockchain and stablecoin solutions.',
+    url: '',
+    img_url: '/XRP/paxos.png',
+    position: { x: 77.25, y: -238.5 },
+    orbit: 'outer'
+  },
  ]
 
 export default function Home() {

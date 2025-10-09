@@ -63,51 +63,51 @@ const projects: ProjectCard[] = [
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
   },
-//   {
-//     id: 'root-network',
-//     title: 'Root Network',
-//     description: "Revolutionary AI and metaverse technologies.",
-//     url: '',
-//     img_url: '/XRP/Root Network.png',
-//     position: { x: 250, y: 0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'axelar',
-//     title: 'Axelar',
-//     description: 'Tokenize, trade, and earn yield through a single development platform.',
-//     url: '',
-//     img_url: '/XRP/Axelar.png',
-//     position: { x: 77.25, y: 238.5 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'xrp-toolkit',
-//     title: 'XRP Toolkit',
-//     description: 'XRP Toolkit is a platform for managing crypto assets on the XRPL.',
-//     url: '',
-//     img_url: '/XRP/XRP Toolkit.png',
-//     position: { x: -202.25, y: 147.0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'digital-wealth-partners',
-//     title: 'Digital Wealth Partners',
-//     description: 'Unlock the Future of Wealth with Digital Assets',
-//     url: '',
-//     img_url: '/XRP/Digital Wealth Partners.png',
-//     position: { x: -202.25, y: -147.0 },
-//     orbit: 'outer'
-//   },
-//   {
-//     id: 'spendthebits',
-//     title: 'SpendTheBits',
-//     description: 'Seamless, secure, and instant payment solution that bridges the gap between traditional and digital currencies',
-//     url: '',
-//     img_url: '/XRP/SpendTheBits.png',
-//     position: { x: 77.25, y: -238.5 },
-//     orbit: 'outer'
-//   }
+  {
+    id: 'stellar',
+    title: 'Stellar',
+    description: "Stellar empowers builders to unlock human and economic potential.",
+    url: '',
+    img_url: '/XRP/Stella.png',
+    position: { x: 250, y: 0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'visa',
+    title: 'Visa',
+    description: 'Visa is evolving its network to connect with multiple blockchain platforms.',
+    url: '',
+    img_url: '/XRP/visa.png',
+    position: { x: 77.25, y: 238.5 },
+    orbit: 'outer'
+  },
+  {
+    id: 'omni-points',
+    title: 'Omni Points',
+    description: 'The superposition loyalty platforms.(Built on Orbit in Partnership with VELO).',
+    url: '',
+    img_url: '/XRP/omni-points.png',
+    position: { x: -202.25, y: 147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'securitize',
+    title: 'SECURITIZE',
+    description: 'The leader in tokenizing real-world assets.',
+    url: '',
+    img_url: '/XRP/securitize.png',
+    position: { x: -202.25, y: -147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'paxos',
+    title: 'PAXOS',
+    description: 'Global leaders use the Paxos platform to build their blockchain and stablecoin solutions.',
+    url: '',
+    img_url: '/XRP/paxos.png',
+    position: { x: 77.25, y: -238.5 },
+    orbit: 'outer'
+  }
  ]
 
 export default function Home() {

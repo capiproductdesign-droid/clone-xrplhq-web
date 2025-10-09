@@ -4478,8 +4478,12 @@
       outline-color: color-mix(in oklab, var(--ring) 50%, transparent);
     }
   }
-  body {
-    background-color: var(--background);
+  html,
+  body,
+  #__next,
+  main {
+    background: transparent !important;
+    overflow: visible !important;
     color: var(--foreground);
   }
 }
