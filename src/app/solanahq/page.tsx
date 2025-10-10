@@ -268,7 +268,7 @@ export default function Home() {
               {/* Circle 4: 744x744, blue blur */}
               <motion.div
                 initial={{ scale: 0, opacity: 0 }}
-                animate={{ scale: 1, opacity: 0.1 }}
+                animate={{ scale: 1, opacity: 0.15 }}
                 transition={{ duration: 0.8, delay: 0.6, ease: "easeOut" }}
                 className="absolute rounded-full"
                 style={{
@@ -278,8 +278,8 @@ export default function Home() {
                   top: "50%",
                   marginLeft: "-372px",
                   marginTop: "-372px",
-                  opacity: 0.1,
-                  background: "#056FFF",
+                  opacity: 0.15,
+                  background: "linear-gradient(0deg, #0DF0D7 10.35%, #C54CFD 100%)",
                   filter: "blur(100px)"
                 }}
               />
