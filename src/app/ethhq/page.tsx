@@ -278,8 +278,8 @@ export default function Home() {
                   top: "50%",
                   marginLeft: "-372px",
                   marginTop: "-372px",
-                  opacity: 0.1,
-                  background: "#056FFF",
+                  opacity: 0.06,
+                  background: "#FFFFFF",
                   filter: "blur(100px)"
                 }}
               />
