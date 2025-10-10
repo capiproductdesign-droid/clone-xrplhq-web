@@ -111,3 +111,18 @@
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.556 0 0);
 }
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  html,
+  body,
+  #__next,
+  main {
+    background: transparent !important;
+    overflow: visible !important;
+    color: var(--foreground);
+  }
+}
