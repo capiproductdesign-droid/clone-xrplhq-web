@@ -197,7 +197,7 @@ export default function Home() {
             whileTap={{ scale: 0.95 }}
           >
             <img 
-              src="/XRP/stellahq.png" 
+              src="/XRP/Stellahq.png" 
               alt="stellahq" 
               className="w-full h-full object-cover" 
             />
