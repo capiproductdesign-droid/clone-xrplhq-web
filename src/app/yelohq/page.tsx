@@ -22,7 +22,7 @@ const projects: ProjectCard[] = [
     id: 'stellar',
     title: 'Stellar',
     description: "Stellar empowers builders to unlock human and economic potential.",
-    url: '',
+    url: 'https://stellar.org/',
     img_url: '/XRP/Stella.png',
     position: { x: 250, y: 0 },
     orbit: 'inner'
@@ -31,7 +31,7 @@ const projects: ProjectCard[] = [
     id: 'visa',
     title: 'Visa',
     description: 'Visa is evolving its network to connect with multiple blockchain platforms.',
-    url: '',
+    url: 'https://usa.visa.com/',
     img_url: '/XRP/visa.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
@@ -40,7 +40,7 @@ const projects: ProjectCard[] = [
     id: 'omni-points',
     title: 'Omni Points',
     description: 'The superposition loyalty platforms.(Built on Orbit in Partnership with VELO).',
-    url: '',
+    url: 'https://omni-web.velofinance.io/',
     img_url: '/XRP/omni-points.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
@@ -49,7 +49,7 @@ const projects: ProjectCard[] = [
     id: 'securitize',
     title: 'SECURITIZE',
     description: 'The leader in tokenizing real-world assets.',
-    url: '',
+    url: 'https://securitize.io/',
     img_url: '/XRP/securitize.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
@@ -58,7 +58,7 @@ const projects: ProjectCard[] = [
     id: 'paxos',
     title: 'PAXOS',
     description: 'Global leaders use the Paxos platform to build their blockchain and stablecoin solutions.',
-    url: '',
+    url: 'https://www.paxos.com/',
     img_url: '/XRP/paxos.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
@@ -67,7 +67,7 @@ const projects: ProjectCard[] = [
     id: 'stellar',
     title: 'Stellar',
     description: "Stellar empowers builders to unlock human and economic potential.",
-    url: '',
+    url: 'https://stellar.org/',
     img_url: '/XRP/Stella.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
@@ -76,7 +76,7 @@ const projects: ProjectCard[] = [
     id: 'visa',
     title: 'Visa',
     description: 'Visa is evolving its network to connect with multiple blockchain platforms.',
-    url: '',
+    url: 'https://usa.visa.com/',
     img_url: '/XRP/visa.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
@@ -85,7 +85,7 @@ const projects: ProjectCard[] = [
     id: 'omni-points',
     title: 'Omni Points',
     description: 'The superposition loyalty platforms.(Built on Orbit in Partnership with VELO).',
-    url: '',
+    url: 'https://omni-web.velofinance.io/',
     img_url: '/XRP/omni-points.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
@@ -94,7 +94,7 @@ const projects: ProjectCard[] = [
     id: 'securitize',
     title: 'SECURITIZE',
     description: 'The leader in tokenizing real-world assets.',
-    url: '',
+    url: 'https://securitize.io/',
     img_url: '/XRP/securitize.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
@@ -103,7 +103,7 @@ const projects: ProjectCard[] = [
     id: 'paxos',
     title: 'PAXOS',
     description: 'Global leaders use the Paxos platform to build their blockchain and stablecoin solutions.',
-    url: '',
+    url: 'https://www.paxos.com/',
     img_url: '/XRP/paxos.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'

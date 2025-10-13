@@ -1106,7 +1106,7 @@
     background-color: var(--background);
   }
   .bg-black {
-    background-color: transparent;
+    background-color: var(--color-black);
   }
   .bg-black\/50 {
     background-color: color-mix(in srgb, #000 50%, transparent);

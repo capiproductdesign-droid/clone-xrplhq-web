@@ -22,7 +22,7 @@ const projects: ProjectCard[] = [
     id: 'lightning-network',
     title: 'Lightning Network',
     description: "Scalable, Instant Bitcoin/Blockchain Transactions.",
-    url: '',
+    url: 'https://lightning.network/#intro',
     img_url: '/XRP/lightning-network.png',
     position: { x: 250, y: 0 },
     orbit: 'inner'
@@ -31,7 +31,7 @@ const projects: ProjectCard[] = [
     id: 'metaplanet',
     title: 'Metaplanet',
     description: 'Japan’s first and only publicly listed Bitcoin Treasury Company.',
-    url: '',
+    url: 'https://metaplanet.jp/en',
     img_url: '/XRP/metaplanet.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
@@ -40,7 +40,7 @@ const projects: ProjectCard[] = [
     id: 'rootstock',
     title: 'Rootstock',
     description: 'Do more with Bitcoin on Rootstock.The Bitcoin DeFi Layer.',
-    url: '',
+    url: 'https://rootstock.io/',
     img_url: '/XRP/rootstock.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
@@ -49,7 +49,7 @@ const projects: ProjectCard[] = [
     id: 'stacks',
     title: 'Stacks',
     description: 'Activate the Bitcoin economy with the leading Bitcoin L2.',
-    url: '',
+    url: 'https://www.stacks.co/',
     img_url: '/XRP/stacks.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
@@ -58,7 +58,7 @@ const projects: ProjectCard[] = [
     id: 'strategy',
     title: 'Strategy',
     description: 'Strategy helps you seamlessly integrate and engage with data.',
-    url: '',
+    url: 'https://www.strategy.com/',
     img_url: '/XRP/strategy.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
@@ -67,7 +67,7 @@ const projects: ProjectCard[] = [
     id: 'lightning-network',
     title: 'Lightning Network',
     description: "Scalable, Instant Bitcoin/Blockchain Transactions.",
-    url: '',
+    url: 'https://lightning.network/#intro',
     img_url: '/XRP/lightning-network.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
@@ -76,7 +76,7 @@ const projects: ProjectCard[] = [
     id: 'metaplanet',
     title: 'Metaplanet',
     description: 'Japan’s first and only publicly listed Bitcoin Treasury Company.',
-    url: '',
+    url: 'https://metaplanet.jp/en',
     img_url: '/XRP/metaplanet.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
@@ -85,7 +85,7 @@ const projects: ProjectCard[] = [
     id: 'rootstock',
     title: 'Rootstock',
     description: 'Do more with Bitcoin on Rootstock.The Bitcoin DeFi Layer.',
-    url: '',
+    url: 'https://rootstock.io/',
     img_url: '/XRP/rootstock.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
@@ -94,7 +94,7 @@ const projects: ProjectCard[] = [
     id: 'stacks',
     title: 'Stacks',
     description: 'Activate the Bitcoin economy with the leading Bitcoin L2.',
-    url: '',
+    url: 'https://www.stacks.co/',
     img_url: '/XRP/stacks.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
@@ -103,7 +103,7 @@ const projects: ProjectCard[] = [
     id: 'strategy',
     title: 'Strategy',
     description: 'Strategy helps you seamlessly integrate and engage with data.',
-    url: '',
+    url: 'https://www.strategy.com/',
     img_url: '/XRP/strategy.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'

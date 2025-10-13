@@ -22,7 +22,7 @@ const projects: ProjectCard[] = [
     id: 'suilend',
     title: 'Suilend',
     description: "infinite liquid staking, and superfluid DEX.",
-    url: '',
+    url: 'https://suilend.fi/',
     img_url: '/XRP/suilend.png',
     position: { x: 250, y: 0 },
     orbit: 'inner'
@@ -31,7 +31,7 @@ const projects: ProjectCard[] = [
     id: 'misten-labs',
     title: 'Misten Labs',
     description: 'Shaping the future of the internet.',
-    url: '',
+    url: 'https://www.mystenlabs.com/',
     img_url: '/XRP/mistenlabs.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
@@ -40,7 +40,7 @@ const projects: ProjectCard[] = [
     id: 'cetus',
     title: 'Cetus',
     description: 'The leading DEX and liquidity infra on SUI.',
-    url: '',
+    url: 'https://www.cetus.zone/',
     img_url: '/XRP/cetus.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
@@ -49,7 +49,7 @@ const projects: ProjectCard[] = [
     id: 'walrus',
     title: 'Walrus',
     description: 'The first decentralized data storage built on SUI.',
-    url: '',
+    url: 'https://www.walrus.xyz/',
     img_url: '/XRP/walrus.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
@@ -58,7 +58,7 @@ const projects: ProjectCard[] = [
     id: 'delorean-labs',
     title: 'Delorean Labs',
     description: 'The Official DeLorean Motor Company Web3 account.',
-    url: '',
+    url: 'https://deloreanlabs.com/',
     img_url: '/XRP/deloreanlabs.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
@@ -68,7 +68,7 @@ const projects: ProjectCard[] = [
     id: 'suilend',
     title: 'Suilend',
     description: "infinite liquid staking, and superfluid DEX.",
-    url: '',
+    url: 'https://suilend.fi/',
     img_url: '/XRP/suilend.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
@@ -77,7 +77,7 @@ const projects: ProjectCard[] = [
     id: 'misten-labs',
     title: 'Misten Labs',
     description: 'Shaping the future of the internet.',
-    url: '',
+    url: 'https://www.mystenlabs.com/',
     img_url: '/XRP/mistenlabs.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
@@ -86,7 +86,7 @@ const projects: ProjectCard[] = [
     id: 'cetus',
     title: 'Cetus',
     description: 'The leading DEX and liquidity infra on SUI.',
-    url: '',
+    url: 'https://www.cetus.zone/',
     img_url: '/XRP/cetus.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
@@ -95,7 +95,7 @@ const projects: ProjectCard[] = [
     id: 'walrus',
     title: 'Walrus',
     description: 'The first decentralized data storage built on SUI.',
-    url: '',
+    url: 'https://www.walrus.xyz/',
     img_url: '/XRP/walrus.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
@@ -104,7 +104,7 @@ const projects: ProjectCard[] = [
     id: 'delorean-labs',
     title: 'Delorean Labs',
     description: 'The Official DeLorean Motor Company Web3 account.',
-    url: '',
+    url: 'https://deloreanlabs.com/',
     img_url: '/XRP/deloreanlabs.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'

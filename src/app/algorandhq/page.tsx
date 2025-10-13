@@ -22,7 +22,7 @@ const projects: ProjectCard[] = [
     id: 'archax',
     title: 'Archax',
     description: "The first-ever tokenized money market fund on Algorand with Archax.",
-    url: '',
+    url: 'https://archax.com/',
     img_url: '/XRP/archax.png',
     position: { x: 250, y: 0 },
     orbit: 'inner'
@@ -31,7 +31,7 @@ const projects: ProjectCard[] = [
     id: 'paycode',
     title: 'Paycode',
     description: 'Paycode delivers biometric identity and affordable financial services to underserved rural communities.',
-    url: '',
+    url: 'https://www.paycode.com/',
     img_url: '/XRP/paycode.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
@@ -40,7 +40,7 @@ const projects: ProjectCard[] = [
     id: 'kiobanx',
     title: 'Kiobanx',
     description: 'Koibanx partnered with El Salvador to build national blockchain infrastructure on Algorand.',
-    url: '',
+    url: 'https://koibanx.com/',
     img_url: '/XRP/kiobanx.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
@@ -49,7 +49,7 @@ const projects: ProjectCard[] = [
     id: 'quantoz',
     title: 'Quantoz',
     description: 'EU regulated stablecoins designed for global commerce.',
-    url: '',
+    url: 'https://www.quantoz.com/',
     img_url: '/XRP/quantoz.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
@@ -58,7 +58,7 @@ const projects: ProjectCard[] = [
     id: 'nansen',
     title: 'Nansen',
     description: 'Empowering Crypto Investors and Teams With Onchain Insights To Make Informed Decisions.',
-    url: '',
+    url: 'https://www.nansen.ai/',
     img_url: '/XRP/nansen.svg',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
@@ -67,7 +67,7 @@ const projects: ProjectCard[] = [
     id: 'archax',
     title: 'Archax',
     description: "The first-ever tokenized money market fund on Algorand with Archax.",
-    url: '',
+    url: 'https://archax.com/',
     img_url: '/XRP/archax.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
@@ -76,7 +76,7 @@ const projects: ProjectCard[] = [
     id: 'paycode',
     title: 'Paycode',
     description: 'Paycode delivers biometric identity and affordable financial services to underserved rural communities.',
-    url: '',
+    url: 'https://www.paycode.com/',
     img_url: '/XRP/paycode.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
@@ -85,7 +85,7 @@ const projects: ProjectCard[] = [
     id: 'kiobanx',
     title: 'Kiobanx',
     description: 'Koibanx partnered with El Salvador to build national blockchain infrastructure on Algorand.',
-    url: '',
+    url: 'https://koibanx.com/',
     img_url: '/XRP/kiobanx.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
@@ -94,7 +94,7 @@ const projects: ProjectCard[] = [
     id: 'quantoz',
     title: 'Quantoz',
     description: 'EU regulated stablecoins designed for global commerce.',
-    url: '',
+    url: 'https://www.quantoz.com/',
     img_url: '/XRP/quantoz.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
@@ -103,7 +103,7 @@ const projects: ProjectCard[] = [
     id: 'nansen',
     title: 'Nansen',
     description: 'Empowering Crypto Investors and Teams With Onchain Insights To Make Informed Decisions.',
-    url: '',
+    url: 'https://www.nansen.ai/',
     img_url: '/XRP/nansen.svg',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'

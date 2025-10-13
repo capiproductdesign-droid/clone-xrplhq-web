@@ -22,7 +22,7 @@ const projects: ProjectCard[] = [
     id: 'velo',
     title: 'VELO',
     description: "Web3+ financial ecosystem for digital assets and borderlines transfers.",
-    url: '',
+    url: 'https://www.velo.org/',
     img_url: '/XRP/velo.png',
     position: { x: 250, y: 0 },
     orbit: 'inner'
@@ -31,7 +31,7 @@ const projects: ProjectCard[] = [
     id: 'ondo-finance',
     title: 'Ondo Finance',
     description: 'Institutional-grade platforms, assets, and infrastructure to bring financial markets onchain.',
-    url: '',
+    url: 'https://ondo.finance/',
     img_url: '/XRP/ondo-finance.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
@@ -40,7 +40,7 @@ const projects: ProjectCard[] = [
     id: 'money-gram',
     title: 'Money Gram',
     description: 'Secure online money transfers .',
-    url: '',
+    url: 'https://www.moneygram.com/us/en',
     img_url: '/XRP/money-gram.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
@@ -49,7 +49,7 @@ const projects: ProjectCard[] = [
     id: 'franklin-templeton',
     title: 'Franklin Templeton',
     description: 'Helping you achieve your financial goals.',
-    url: '',
+    url: 'https://www.franklintempleton.com/',
     img_url: '/XRP/franklin-templeton.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
@@ -58,7 +58,7 @@ const projects: ProjectCard[] = [
     id: 'paxos',
     title: 'Paxos',
     description: 'Global leaders use the Paxos platform to build their blockchain and stablecoin solutions.',
-    url: '',
+    url: 'https://www.paxos.com/',
     img_url: '/XRP/paxos.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
@@ -68,7 +68,7 @@ const projects: ProjectCard[] = [
     id: 'velo',
     title: 'VELO',
     description: "Web3+ financial ecosystem for digital assets and borderlines transfers.",
-    url: '',
+    url: 'https://www.velo.org/',
     img_url: '/XRP/velo.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
@@ -77,7 +77,7 @@ const projects: ProjectCard[] = [
     id: 'ondo-finance',
     title: 'Ondo Finance',
     description: 'Institutional-grade platforms, assets, and infrastructure to bring financial markets onchain.',
-    url: '',
+    url: 'https://ondo.finance/',
     img_url: '/XRP/ondo-finance.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
@@ -86,7 +86,7 @@ const projects: ProjectCard[] = [
     id: 'money-gram',
     title: 'Money Gram',
     description: 'Secure online money transfers .',
-    url: '',
+    url: 'https://www.moneygram.com/us/en',
     img_url: '/XRP/money-gram.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
@@ -95,7 +95,7 @@ const projects: ProjectCard[] = [
     id: 'franklin-templeton',
     title: 'Franklin Templeton',
     description: 'Helping you achieve your financial goals.',
-    url: '',
+    url: 'https://www.franklintempleton.com/',
     img_url: '/XRP/franklin-templeton.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
@@ -104,7 +104,7 @@ const projects: ProjectCard[] = [
     id: 'paxos',
     title: 'Paxos',
     description: 'Global leaders use the Paxos platform to build their blockchain and stablecoin solutions.',
-    url: '',
+    url: 'https://www.paxos.com/',
     img_url: '/XRP/paxos.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'

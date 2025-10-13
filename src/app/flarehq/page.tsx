@@ -22,7 +22,7 @@ const projects: ProjectCard[] = [
     id: 'ripple',
     title: 'Ripple',
     description: "Modernize your financial infrastructure with Ripple.",
-    url: '',
+    url: 'https://ripple.com/',
     img_url: '/XRP/rippleicon.png',
     position: { x: 250, y: 0 },
     orbit: 'inner'
@@ -31,7 +31,7 @@ const projects: ProjectCard[] = [
     id: 'vivo-power',
     title: 'Vivo Power',
     description: 'DEPLOYS $100M IN XRP FOR INSTITUTIONAL YIELD on Flare.',
-    url: '',
+    url: 'https://vivopower.com/',
     img_url: '/XRP/vivopower.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
@@ -40,7 +40,7 @@ const projects: ProjectCard[] = [
     id: 'moremarkets',
     title: 'MoreMarkets',
     description: 'Turning idle tokens into productive assets. Earn yield while staying on native chains.',
-    url: '',
+    url: 'https://www.more.markets/',
     img_url: '/XRP/moremarkets.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
@@ -49,7 +49,7 @@ const projects: ProjectCard[] = [
     id: 'usdt0',
     title: 'USDT0',
     description: 'Brings the largest stablecoin in the world to the most widely adopted blockchains.',
-    url: '',
+    url: 'https://usdt0.to/',
     img_url: '/XRP/usdt0.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
@@ -58,7 +58,7 @@ const projects: ProjectCard[] = [
     id: 'firelight',
     title: 'Firelight',
     description: 'Firelight enables you to stake your XRP and earn rewards within the Flare ecosystem.',
-    url: '',
+    url: 'https://firelight.finance/',
     img_url: '/XRP/firelight.svg',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
@@ -68,7 +68,7 @@ const projects: ProjectCard[] = [
     id: 'ripple',
     title: 'Ripple',
     description: "Modernize your financial infrastructure with Ripple.",
-    url: '',
+    url: 'https://ripple.com/',
     img_url: '/XRP/rippleicon.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
@@ -77,7 +77,7 @@ const projects: ProjectCard[] = [
     id: 'vivo-power',
     title: 'Vivo Power',
     description: 'DEPLOYS $100M IN XRP FOR INSTITUTIONAL YIELD on Flare.',
-    url: '',
+    url: 'https://vivopower.com/',
     img_url: '/XRP/vivopower.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
@@ -86,7 +86,7 @@ const projects: ProjectCard[] = [
     id: 'moremarkets',
     title: 'MoreMarkets',
     description: 'Turning idle tokens into productive assets. Earn yield while staying on native chains.',
-    url: '',
+    url: 'https://www.more.markets/',
     img_url: '/XRP/moremarkets.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
@@ -95,7 +95,7 @@ const projects: ProjectCard[] = [
     id: 'usdt0',
     title: 'USDT0',
     description: 'Brings the largest stablecoin in the world to the most widely adopted blockchains.',
-    url: '',
+    url: 'https://usdt0.to/',
     img_url: '/XRP/usdt0.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
@@ -104,7 +104,7 @@ const projects: ProjectCard[] = [
     id: 'firelight',
     title: 'Firelight',
     description: 'Firelight enables you to stake your XRP and earn rewards within the Flare ecosystem.',
-    url: '',
+    url: 'https://firelight.finance/',
     img_url: '/XRP/firelight.svg',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'

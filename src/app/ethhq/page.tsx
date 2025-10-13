@@ -22,7 +22,7 @@ const projects: ProjectCard[] = [
     id: 'meta-mask',
     title: 'Metamask',
     description: "MetaMask equips you with a key vault, secure login, token wallet, and token exchange.",
-    url: '',
+    url: 'https://metamask.io/',
     img_url: '/XRP/MetaMask.png',
     position: { x: 250, y: 0 },
     orbit: 'inner'
@@ -31,7 +31,7 @@ const projects: ProjectCard[] = [
     id: 'polygon',
     title: 'Polygon',
     description: 'Unifying liquidity across Polygon protocols and solving multi-chain interoperability.',
-    url: '',
+    url: 'https://polygon.technology/ https://portal.polygon.technology/',
     img_url: '/XRP/polygon.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
@@ -40,7 +40,7 @@ const projects: ProjectCard[] = [
     id: 'arbitrum',
     title: 'Arbitrum',
     description: 'A unified blockchain for everyone,where ideas thrive and boundaries fade.',
-    url: '',
+    url: 'https://arbitrum.io/ https://portal.arbitrum.io/',
     img_url: '/XRP/arbitrum.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
@@ -49,7 +49,7 @@ const projects: ProjectCard[] = [
     id: 'aave',
     title: 'Aave',
     description: 'Aave is the world’s largest liquidity protocol. Supply, borrow, swap, stake and more.',
-    url: '',
+    url: 'https://aave.com/',
     img_url: '/XRP/aave.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
@@ -58,7 +58,7 @@ const projects: ProjectCard[] = [
     id: 'chainlink',
     title: 'Chainlink',
     description: 'Chainlink is the industry standard Web3 services platform connecting the people, business and date.',
-    url: '',
+    url: 'https://chain.link/',
     img_url: '/XRP/chainlink.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
@@ -68,7 +68,7 @@ const projects: ProjectCard[] = [
     id: 'meta-mask',
     title: 'Metamask',
     description: "MetaMask equips you with a key vault, secure login, token wallet, and token exchange.",
-    url: '',
+    url: 'https://metamask.io/',
     img_url: '/XRP/MetaMask.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
@@ -77,7 +77,7 @@ const projects: ProjectCard[] = [
     id: 'polygon',
     title: 'Polygon',
     description: 'Unifying liquidity across Polygon protocols and solving multi-chain interoperability.',
-    url: '',
+    url: 'https://polygon.technology/ https://portal.polygon.technology/',
     img_url: '/XRP/polygon.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
@@ -86,7 +86,7 @@ const projects: ProjectCard[] = [
     id: 'arbitrum',
     title: 'Arbitrum',
     description: 'A unified blockchain for everyone,where ideas thrive and boundaries fade.',
-    url: '',
+    url: 'https://arbitrum.io/ https://portal.arbitrum.io/',
     img_url: '/XRP/arbitrum.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
@@ -95,7 +95,7 @@ const projects: ProjectCard[] = [
     id: 'aave',
     title: 'Aave',
     description: 'Aave is the world’s largest liquidity protocol. Supply, borrow, swap, stake and more.',
-    url: '',
+    url: 'https://aave.com/',
     img_url: '/XRP/aave.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
@@ -104,7 +104,7 @@ const projects: ProjectCard[] = [
     id: 'chainlink',
     title: 'Chainlink',
     description: 'Chainlink is the industry standard Web3 services platform connecting the people, business and date.',
-    url: '',
+    url: 'https://aave.com/',
     img_url: '/XRP/chainlink.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'

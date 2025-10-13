@@ -22,7 +22,7 @@ const projects: ProjectCard[] = [
     id: 'hash-pack',
     title: 'Hashpack',
     description: "HashPack is your gateway to Hedera dApps, DeFi and NFTs.",
-    url: '',
+    url: 'https://www.hashpack.app/',
     img_url: '/XRP/Hashpack.png',
     position: { x: 250, y: 0 },
     orbit: 'inner'
@@ -31,7 +31,7 @@ const projects: ProjectCard[] = [
     id: 'hedera-rwa-studio',
     title: 'Hedera RWA Studio',
     description: 'Open source toolkit for the configuration, issuance, and management of RWA(s).',
-    url: '',
+    url: 'https://hedera.com/asset-tokenization-studio',
     img_url: '/XRP/hedera-rwa-studio.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
@@ -40,7 +40,7 @@ const projects: ProjectCard[] = [
     id: 'nvidia',
     title: 'NVIDIA',
     description: 'NVIDIA leverages Hedera for trusted, verifiable AI compute solutions.',
-    url: '',
+    url: 'https://www.nvidia.com/en-us/drivers/',
     img_url: '/XRP/nvidia.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
@@ -49,7 +49,7 @@ const projects: ProjectCard[] = [
     id: 'tumefm',
     title: 'Tume.FM',
     description: 'Web3 decentralized music streaming platform & music NFT marketplace.',
-    url: '',
+    url: 'https://tune.fm/',
     img_url: '/XRP/tumefm.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
@@ -58,7 +58,7 @@ const projects: ProjectCard[] = [
     id: 'dropp',
     title: 'Dropp',
     description: 'An instant micro-payment platform built on Hedera.',
-    url: '',
+    url: 'https://dropp.cc/',
     img_url: '/XRP/dropp.svg',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
@@ -68,7 +68,7 @@ const projects: ProjectCard[] = [
     id: 'hash-pack',
     title: 'Hashpack',
     description: "HashPack is your gateway to Hedera dApps, DeFi and NFTs.",
-    url: '',
+    url: 'https://www.hashpack.app/',
     img_url: '/XRP/Hashpack.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
@@ -77,7 +77,7 @@ const projects: ProjectCard[] = [
     id: 'hedera-rwa-studio',
     title: 'Hedera RWA Studio',
     description: 'Open source toolkit for the configuration, issuance, and management of RWA(s).',
-    url: '',
+    url: 'https://hedera.com/asset-tokenization-studio',
     img_url: '/XRP/hedera-rwa-studio.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
@@ -86,7 +86,7 @@ const projects: ProjectCard[] = [
     id: 'nvidia',
     title: 'NVIDIA',
     description: 'NVIDIA leverages Hedera for trusted, verifiable AI compute solutions.',
-    url: '',
+    url: 'https://www.nvidia.com/en-us/drivers/',
     img_url: '/XRP/nvidia.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
@@ -95,7 +95,7 @@ const projects: ProjectCard[] = [
     id: 'tumefm',
     title: 'Tume.FM',
     description: 'Web3 decentralized music streaming platform & music NFT marketplace.',
-    url: '',
+    url: 'https://tune.fm/',
     img_url: '/XRP/tumefm.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
@@ -104,7 +104,7 @@ const projects: ProjectCard[] = [
     id: 'dropp',
     title: 'Dropp',
     description: 'An instant micro-payment platform built on Hedera.',
-    url: '',
+    url: 'https://dropp.cc/',
     img_url: '/XRP/dropp.svg',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'

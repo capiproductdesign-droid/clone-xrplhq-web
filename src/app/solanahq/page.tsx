@@ -22,7 +22,7 @@ const projects: ProjectCard[] = [
     id: 'jito-labs',
     title: 'Jito Labs',
     description: "Jito Labs builds high performance Solana MEV infrastructure.",
-    url: '',
+    url: 'https://www.jito.wtf/',
     img_url: '/XRP/jito-labs.png',
     position: { x: 250, y: 0 },
     orbit: 'inner'
@@ -31,7 +31,7 @@ const projects: ProjectCard[] = [
     id: 'radium',
     title: 'Radium',
     description: 'An on-chain order book AMM powering the evolution of DeFi.',
-    url: '',
+    url: 'https://raydium.io/swap/',
     img_url: '/XRP/radium.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
@@ -40,7 +40,7 @@ const projects: ProjectCard[] = [
     id: 'ondo-finance',
     title: 'Ondo Finance',
     description: 'Institutional-grade platforms, assets, and infrastructure to bring financial markets onchain.',
-    url: '',
+    url: 'https://ondo.finance/',
     img_url: '/XRP/ondo-finance.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
@@ -49,7 +49,7 @@ const projects: ProjectCard[] = [
     id: 'superstate',
     title: 'Superstate',
     description: 'Connecting assets with crypto markets via on-chain listings and tokenized securities.',
-    url: '',
+    url: 'https://superstate.com/?utm_source=rwa.xyz&utm_medium=referral',
     img_url: '/XRP/superstate.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
@@ -58,7 +58,7 @@ const projects: ProjectCard[] = [
     id: 'sol',
     title: 'SOL Strategies ',
     description: 'Take a Stake into the Future of Solana’s potential.',
-    url: '',
+    url: 'https://solstrategies.io/',
     img_url: '/XRP/sol.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
@@ -68,7 +68,7 @@ const projects: ProjectCard[] = [
     id: 'jito-labs',
     title: 'Jito Labs',
     description: "Jito Labs builds high performance Solana MEV infrastructure.",
-    url: '',
+    url: 'https://www.jito.wtf/',
     img_url: '/XRP/jito-labs.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
@@ -77,7 +77,7 @@ const projects: ProjectCard[] = [
     id: 'radium',
     title: 'Radium',
     description: 'An on-chain order book AMM powering the evolution of DeFi.',
-    url: '',
+    url: 'https://raydium.io/swap/',
     img_url: '/XRP/radium.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
@@ -86,7 +86,7 @@ const projects: ProjectCard[] = [
     id: 'ondo-finance',
     title: 'Ondo Finance',
     description: 'Institutional-grade platforms, assets, and infrastructure to bring financial markets onchain.',
-    url: '',
+    url: 'https://ondo.finance/',
     img_url: '/XRP/ondo-finance.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
@@ -95,7 +95,7 @@ const projects: ProjectCard[] = [
     id: 'superstate',
     title: 'Superstate',
     description: 'Connecting assets with crypto markets via on-chain listings and tokenized securities.',
-    url: '',
+    url: 'https://superstate.com/?utm_source=rwa.xyz&utm_medium=referral',
     img_url: '/XRP/superstate.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
@@ -104,7 +104,7 @@ const projects: ProjectCard[] = [
     id: 'sol',
     title: 'SOL Strategies ',
     description: 'Take a Stake into the Future of Solana’s potential.',
-    url: '',
+    url: 'https://solstrategies.io/',
     img_url: '/XRP/sol.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'

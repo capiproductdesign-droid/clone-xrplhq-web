@@ -22,7 +22,7 @@ const projects: ProjectCard[] = [
     id: 'r3-corda',
     title: 'R3 Corda',
     description: "The award-winning real-world asset (RWA) tokenization platform.",
-    url: '',
+    url: 'https://r3.com/r3-labs/corda/',
     img_url: '/XRP/r3corda.png',
     position: { x: 250, y: 0 },
     orbit: 'inner'
@@ -31,7 +31,7 @@ const projects: ProjectCard[] = [
     id: 'archax',
     title: 'Archax',
     description: 'Bridging Traditional Finance into Digital Assets on the XDC Network.',
-    url: '',
+    url: 'https://archax.com/',
     img_url: '/XRP/archax.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
@@ -40,7 +40,7 @@ const projects: ProjectCard[] = [
     id: 'circle',
     title: 'Circle',
     description: 'Bringing regulated stablecoin and crosschain transfers to XDC for trade, RWA, DeFi.',
-    url: '',
+    url: 'https://www.circle.com/',
     img_url: '/XRP/circle.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
@@ -49,7 +49,7 @@ const projects: ProjectCard[] = [
     id: 'securitize',
     title: 'Securitize',
     description: 'Integrated with XDC to issue tokenized U.S. Treasury products on-chain.',
-    url: '',
+    url: 'https://securitize.io/',
     img_url: '/XRP/securitize.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
@@ -58,7 +58,7 @@ const projects: ProjectCard[] = [
     id: 'tradeteq',
     title: 'TradeTeq',
     description: 'Creating sustainable wealth through trade finance investing.',
-    url: '',
+    url: 'https://www.tradeteq.com/',
     img_url: '/XRP/tradeteq.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
@@ -68,7 +68,7 @@ const projects: ProjectCard[] = [
     id: 'r3-corda',
     title: 'R3 Corda',
     description: "The award-winning real-world asset (RWA) tokenization platform.",
-    url: '',
+    url: 'https://r3.com/r3-labs/corda/',
     img_url: '/XRP/r3corda.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
@@ -77,7 +77,7 @@ const projects: ProjectCard[] = [
     id: 'archax',
     title: 'Archax',
     description: 'Bridging Traditional Finance into Digital Assets on the XDC Network.',
-    url: '',
+    url: 'https://archax.com/',
     img_url: '/XRP/archax.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
@@ -86,7 +86,7 @@ const projects: ProjectCard[] = [
     id: 'circle',
     title: 'Circle',
     description: 'Bringing regulated stablecoin and crosschain transfers to XDC for trade, RWA, DeFi.',
-    url: '',
+    url: 'https://www.circle.com/',
     img_url: '/XRP/circle.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
@@ -95,7 +95,7 @@ const projects: ProjectCard[] = [
     id: 'securitize',
     title: 'Securitize',
     description: 'Integrated with XDC to issue tokenized U.S. Treasury products on-chain.',
-    url: '',
+    url: 'https://securitize.io/',
     img_url: '/XRP/securitize.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
@@ -104,7 +104,7 @@ const projects: ProjectCard[] = [
     id: 'tradeteq',
     title: 'TradeTeq',
     description: 'Creating sustainable wealth through trade finance investing.',
-    url: '',
+    url: 'https://www.tradeteq.com/',
     img_url: '/XRP/tradeteq.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'

@@ -22,7 +22,7 @@ const projects: ProjectCard[] = [
     id: 'house-of-doge',
     title: 'House of Doge',
     description: "The Official Corporate Arm of the Dogecoin Foundation.",
-    url: '',
+    url: 'https://www.houseofdoge.com/',
     img_url: '/XRP/houseofdoge.png',
     position: { x: 250, y: 0 },
     orbit: 'inner'
@@ -31,7 +31,7 @@ const projects: ProjectCard[] = [
     id: 'dogechain',
     title: 'Dogechain',
     description: 'NFTs, Games, DeFi | Utility for Dogecoin!.',
-    url: '',
+    url: 'https://dogechain.dog/',
     img_url: '/XRP/dogechain.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
@@ -40,7 +40,7 @@ const projects: ProjectCard[] = [
     id: 'psy',
     title: 'Psy',
     description: 'A trustless bridge between Dogecoin and Solana (using Wormhole).',
-    url: '',
+    url: 'https://psy.xyz/',
     img_url: '/XRP/psy.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
@@ -49,7 +49,7 @@ const projects: ProjectCard[] = [
     id: 'clean-core-solutions',
     title: 'Clean Core Solutions',
     description: 'The First Dogecoin Digital Asset Treasury Company.',
-    url: '',
+    url: 'https://www.cleancoresol.com/',
     img_url: '/XRP/clean-core-solutions.svg',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
@@ -58,7 +58,7 @@ const projects: ProjectCard[] = [
     id: 'doge-cardinals',
     title: 'Doge Cardinals',
     description: 'Cardinals is Dogecoin’s decentralized index protocol.',
-    url: '',
+    url: 'https://cardinals.cloud/',
     img_url: '/XRP/doge-cardinals.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
@@ -68,7 +68,7 @@ const projects: ProjectCard[] = [
     id: 'house-of-doge',
     title: 'House of Doge',
     description: "The Official Corporate Arm of the Dogecoin Foundation.",
-    url: '',
+    url: 'https://www.houseofdoge.com/',
     img_url: '/XRP/houseofdoge.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
@@ -77,7 +77,7 @@ const projects: ProjectCard[] = [
     id: 'dogechain',
     title: 'Dogechain',
     description: 'NFTs, Games, DeFi | Utility for Dogecoin!.',
-    url: '',
+    url: 'https://dogechain.dog/',
     img_url: '/XRP/dogechain.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
@@ -86,7 +86,7 @@ const projects: ProjectCard[] = [
     id: 'psy',
     title: 'Psy',
     description: 'A trustless bridge between Dogecoin and Solana (using Wormhole).',
-    url: '',
+    url: 'https://psy.xyz/',
     img_url: '/XRP/psy.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
@@ -95,7 +95,7 @@ const projects: ProjectCard[] = [
     id: 'clean-core-solutions',
     title: 'Clean Core Solutions',
     description: 'The First Dogecoin Digital Asset Treasury Company.',
-    url: '',
+    url: 'https://www.cleancoresol.com/',
     img_url: '/XRP/clean-core-solutions.svg',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
@@ -104,7 +104,7 @@ const projects: ProjectCard[] = [
     id: 'doge-cardinals',
     title: 'Doge Cardinals',
     description: 'Cardinals is Dogecoin’s decentralized index protocol.',
-    url: '',
+    url: 'https://cardinals.cloud/',
     img_url: '/XRP/doge-cardinals.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'

@@ -22,7 +22,7 @@ const projects: ProjectCard[] = [
     id: 'midnight',
     title: 'Midnight',
     description: "Bringing rational privacy to blockchain.",
-    url: '',
+    url: 'https://midnight.network/',
     img_url: '/XRP/midnight.png',
     position: { x: 250, y: 0 },
     orbit: 'inner'
@@ -31,7 +31,7 @@ const projects: ProjectCard[] = [
     id: 'coti',
     title: 'COTI',
     description: 'COTI delivers scalable Privacy-on-Demand with fast, secure cryptography across blockchains.',
-    url: '',
+    url: 'https://coti.io/',
     img_url: '/XRP/coti.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
@@ -40,7 +40,7 @@ const projects: ProjectCard[] = [
     id: 'iohk',
     title: 'IOHK',
     description: 'One of the world’s pre-eminent blockchain infrastructure research and engineering companies. ',
-    url: '',
+    url: 'https://iohk.io/',
     img_url: '/XRP/moremarkets.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
@@ -49,7 +49,7 @@ const projects: ProjectCard[] = [
     id: 'indigo-protocol',
     title: 'Indigo Protocol',
     description: 'Indigo Protocol seamlessly tokenizes digital and real-world assets on the blockchain.',
-    url: '',
+    url: 'https://indigoprotocol.io/',
     img_url: '/XRP/indigo-protocol.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
@@ -58,7 +58,7 @@ const projects: ProjectCard[] = [
     id: 'minswap-labs',
     title: 'Minswap Labs',
     description: 'Where the community trades on Cardano.',
-    url: '',
+    url: 'https://minswap.org/',
     img_url: '/XRP/minswap.svg',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
@@ -67,7 +67,7 @@ const projects: ProjectCard[] = [
     id: 'midnight',
     title: 'Midnight',
     description: "Bringing rational privacy to blockchain.",
-    url: '',
+    url: 'https://midnight.network/',
     img_url: '/XRP/midnight.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
@@ -76,7 +76,7 @@ const projects: ProjectCard[] = [
     id: 'coti',
     title: 'COTI',
     description: 'COTI delivers scalable Privacy-on-Demand with fast, secure cryptography across blockchains.',
-    url: '',
+    url: 'https://coti.io/',
     img_url: '/XRP/coti.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
@@ -85,7 +85,7 @@ const projects: ProjectCard[] = [
     id: 'iohk',
     title: 'IOHK',
     description: 'One of the world’s pre-eminent blockchain infrastructure research and engineering companies. ',
-    url: '',
+    url: 'https://iohk.io/',
     img_url: '/XRP/moremarkets.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
@@ -94,7 +94,7 @@ const projects: ProjectCard[] = [
     id: 'indigo-protocol',
     title: 'Indigo Protocol',
     description: 'Indigo Protocol seamlessly tokenizes digital and real-world assets on the blockchain.',
-    url: '',
+    url: 'https://indigoprotocol.io/',
     img_url: '/XRP/indigo-protocol.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
@@ -103,7 +103,7 @@ const projects: ProjectCard[] = [
     id: 'minswap-labs',
     title: 'Minswap Labs',
     description: 'Where the community trades on Cardano.',
-    url: '',
+    url: 'https://minswap.org/',
     img_url: '/XRP/minswap.svg',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'
