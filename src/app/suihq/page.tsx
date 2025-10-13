@@ -59,7 +59,7 @@ const projects: ProjectCard[] = [
     title: 'Delorean Labs',
     description: 'The Official DeLorean Motor Company Web3 account.',
     url: 'https://deloreanlabs.com/',
-    img_url: '/XRP/deloreanlabs.png',
+    img_url: '/XRP/Delorean-Labs.svg',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
   },
@@ -105,7 +105,7 @@ const projects: ProjectCard[] = [
     title: 'Delorean Labs',
     description: 'The Official DeLorean Motor Company Web3 account.',
     url: 'https://deloreanlabs.com/',
-    img_url: '/XRP/deloreanlabs.png',
+    img_url: '/XRP/Delorean-Labs.svg',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'
   },

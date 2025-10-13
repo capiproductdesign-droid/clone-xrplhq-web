@@ -37,8 +37,8 @@ const projects: ProjectCard[] = [
     orbit: 'inner'
   },
   {
-    id: 'kiobanx',
-    title: 'Kiobanx',
+    id: 'koibanx',
+    title: 'Koibanx',
     description: 'Koibanx partnered with El Salvador to build national blockchain infrastructure on Algorand.',
     url: 'https://koibanx.com/',
     img_url: '/XRP/kiobanx.png',
@@ -82,8 +82,8 @@ const projects: ProjectCard[] = [
     orbit: 'outer'
   },
   {
-    id: 'kiobanx',
-    title: 'Kiobanx',
+    id: 'koibanx',
+    title: 'Koibanx',
     description: 'Koibanx partnered with El Salvador to build national blockchain infrastructure on Algorand.',
     url: 'https://koibanx.com/',
     img_url: '/XRP/kiobanx.png',
