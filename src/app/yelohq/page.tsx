@@ -39,7 +39,7 @@ const projects: ProjectCard[] = [
   {
     id: 'omni-points',
     title: 'Omni Points',
-    description: 'The superposition loyalty platforms.(Built on Orbit in Partnership with VELO).',
+    description: 'Earn points with Omni Points & Redeem exclusive rewards.',
     url: 'https://omni-web.velofinance.io/',
     img_url: '/XRP/omni-points.png',
     position: { x: -202.25, y: 147.0 },
@@ -64,20 +64,20 @@ const projects: ProjectCard[] = [
     orbit: 'inner'
   },
   {
-    id: 'stellar',
-    title: 'Stellar',
-    description: "Stellar empowers builders to unlock human and economic potential.",
-    url: 'https://stellar.org/',
+    id: 'orbit-plus',
+    title: 'Orbit Plus',
+    description: "The most secure way to control your digital assets  and interact with the decentralized world.",
+    url: 'https://www.velo.org/case-study/orbit-plus',
     img_url: '/XRP/Stella.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
   },
   {
-    id: 'visa',
-    title: 'Visa',
-    description: 'Visa is evolving its network to connect with multiple blockchain platforms.',
-    url: 'https://usa.visa.com/',
-    img_url: '/XRP/visa.png',
+    id: 'solana',
+    title: 'Solana',
+    description: 'Solana supports experiences for power users, new consumers, and everyone in between.',
+    url: 'https://solana.com/',
+    img_url: '/XRP/solana.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
   },
@@ -93,7 +93,7 @@ const projects: ProjectCard[] = [
   {
     id: 'securitize',
     title: 'SECURITIZE',
-    description: 'The leader in tokenizing real-world assets.',
+    description: 'Securitize is the leader in real-world asset tokenization',
     url: 'https://securitize.io/',
     img_url: '/XRP/securitize.png',
     position: { x: -202.25, y: -147.0 },
