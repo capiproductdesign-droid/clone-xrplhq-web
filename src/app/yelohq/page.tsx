@@ -21,7 +21,7 @@ const projects: ProjectCard[] = [
   {
     id: 'stellar',
     title: 'Stellar',
-    description: "Stellar empowers builders to unlock human and economic potential.",
+    description: "Stellar powers borderless payments, asset tokenization, and DeFi solutions worldwide.",
     url: 'https://stellar.org/',
     img_url: '/XRP/Stella.png',
     position: { x: 250, y: 0 },
