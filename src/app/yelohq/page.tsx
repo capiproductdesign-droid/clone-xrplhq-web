@@ -68,7 +68,7 @@ const projects: ProjectCard[] = [
     title: 'Orbit Plus',
     description: "The most secure way to control your digital assets  and interact with the decentralized world.",
     url: 'https://www.velo.org/case-study/orbit-plus',
-    img_url: '/XRP/Stella.png',
+    img_url: '/XRP/orbit-plus.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
   },
