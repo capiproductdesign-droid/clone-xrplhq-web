@@ -28,13 +28,13 @@ const projects: ProjectCard[] = [
     orbit: 'inner'
   },
   {
-    id: 'xaman',
-    title: 'Xaman',
-    description: 'The Leading Self-Custody Wallet. Secure Your XRP with Confidence.',
-    url: 'https://xaman.app/',
-    img_url: '/XRP/Xaman.png',
+    id: 'axelar',
+    title: 'Axelar',
+    description: 'Tokenize, trade, and earn yield through a single development platform.',
+    url: 'https://www.axelar.network/',
+    img_url: '/XRP/Axelar.png',
     position: { x: 77.25, y: 238.5 },
-    orbit: 'inner'
+    orbit: 'inter'
   },
   {
     id: 'flare-network',
@@ -46,11 +46,11 @@ const projects: ProjectCard[] = [
     orbit: 'inner'
   },
   {
-    id: 'future-verse',
-    title: 'FutureVerse',
-    description: 'We power global brands to create content that moves',
+    id: 'evernorth',
+    title: 'Evernorth',
+    description: 'Institutional Digital Asset Treasury Company for $XRP',
     url: 'https://www.futureverse.com/',
-    img_url: '/XRP/FutureVerse.png',
+    img_url: '/XRP/attachment.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
   },
