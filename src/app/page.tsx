@@ -64,11 +64,11 @@ const projects: ProjectCard[] = [
     orbit: 'inner'
   },
   {
-    id: 'easya',
-    title: 'EasyA',
-    description: "App - based learning platform offering bite - sized challenges to build on XPRL",
+    id: 'ripple-usd',
+    title: 'Ripple USD',
+    description: "Hold, buy, and trade tokenized USD onchain with the stablecoin that’s held to higher standards",
     url: 'https://ripple.com/solutions/stablecoin/',
-    img_url: '/XRP/easya.png',
+    img_url: '/XRP/rippleicon.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
   },
