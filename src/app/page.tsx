@@ -32,7 +32,7 @@ const projects: ProjectCard[] = [
     title: 'Axelar',
     description: 'Tokenize, trade, and earn yield through a single development platform.',
     url: 'https://www.axelar.network/',
-    img_url: '/XRP/Axelar.png',
+    img_url: '/XRP/Axelar.svg',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inter'
   },
@@ -86,7 +86,7 @@ const projects: ProjectCard[] = [
     title: 'Hidden Road',
     description: 'Digital Asset Swaps Prime Brokerage for the U.S. Market',
     url: 'https://hiddenroad.com/',
-    img_url: '/XRP/hidden-road.png',
+    img_url: '/XRP/hiddenroad.svg',
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
   },
