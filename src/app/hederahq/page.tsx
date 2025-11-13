@@ -32,7 +32,7 @@ const projects: ProjectCard[] = [
     title: 'Hedera RWA Studio',
     description: 'Open source toolkit for the configuration, issuance, and management of RWA(s).',
     url: 'https://hedera.com/asset-tokenization-studio',
-    img_url: '/XRP/hedera-rwa-studio.png',
+    img_url: '/XRP/hrs.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
   },

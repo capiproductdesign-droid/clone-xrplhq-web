@@ -77,7 +77,7 @@ const projects: ProjectCard[] = [
     title: 'Bitcoin.com',
     description: 'All you need to buy, own, and manage Bitcoin & crypto - take control of your financial future today.',
     url: 'https://www.bitcoin.com/',
-    img_url: '/XRP/metaplanet.png',
+    img_url: '/XRP/bitcoin.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
   },
