@@ -37,11 +37,11 @@ const projects: ProjectCard[] = [
     orbit: 'inner'
   },
   {
-    id: 'money-gram',
-    title: 'Money Gram',
-    description: 'Secure online money transfers .',
-    url: 'https://www.moneygram.com/us/en',
-    img_url: '/XRP/money-gram.png',
+    id: 'circle',
+    title: 'Circle',
+    description: 'Circle issues USDC and EURC stablecoins on Stellar for fast, global payments.',
+    url: 'https://www.circle.com/',
+    img_url: '/XRP/circle.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
   },
@@ -65,20 +65,20 @@ const projects: ProjectCard[] = [
   },
   //outer
   {
-    id: 'velo',
-    title: 'VELO',
-    description: "Web3+ financial ecosystem for digital assets and borderlines transfers.",
-    url: 'https://www.velo.org/',
-    img_url: '/XRP/velo.png',
+   id: 'red-swan-digital',
+    title: 'Red Swan Digital',
+    description: 'RedSwan is a full-service global marketplace of digital real estate investment securities.',
+    url: 'https://redswan.io/',
+    img_url: '/XRP/red-swan.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
   },
   {
-    id: 'ondo-finance',
-    title: 'Ondo Finance',
-    description: 'Institutional-grade platforms, assets, and infrastructure to bring financial markets onchain.',
-    url: 'https://ondo.finance/',
-    img_url: '/XRP/ondo-finance.png',
+    id: 'decaf',
+    title: 'Decaf',
+    description: 'Stellar-powered wallet and card enabling seamless global payments, transfers, and financial access.',
+    url: 'https://www.decaf.so/en',
+    img_url: '/XRP/decaf.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
   },
@@ -88,24 +88,24 @@ const projects: ProjectCard[] = [
     description: 'Secure online money transfers .',
     url: 'https://www.moneygram.com/us/en',
     img_url: '/XRP/money-gram.png',
-    position: { x: -202.25, y: 147.0 },
-    orbit: 'outer'
-  },
-  {
-    id: 'franklin-templeton',
-    title: 'Franklin Templeton',
-    description: 'Helping you achieve your financial goals.',
-    url: 'https://www.franklintempleton.com/',
-    img_url: '/XRP/franklin-templeton.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
   },
   {
-    id: 'paxos',
-    title: 'Paxos',
-    description: 'Global leaders use the Paxos platform to build their blockchain and stablecoin solutions.',
-    url: 'https://www.paxos.com/',
-    img_url: '/XRP/paxos.png',
+    id: 'paypal',
+    title: 'Paypal',
+    description: 'PayPal USD (PYUSD) is a stablecoin that is redeemable 1:1 for US dollars on Stellar',
+    url: 'https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd',
+    img_url: '/XRP/paypal.png',
+    position: { x: -202.25, y: 147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'layerzero',
+    title: 'LayerZero',
+    description: 'LayerZero is a technology that enables applications to move data across blockchains.',
+    url: 'https://layerzero.network/',
+    img_url: '/XRP/layerzero.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'
   },

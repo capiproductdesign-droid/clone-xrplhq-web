@@ -19,93 +19,93 @@ interface ProjectCard {
 
 const projects: ProjectCard[] = [
   {
-    id: 'meta-mask',
-    title: 'Metamask',
-    description: "MetaMask equips you with a key vault, secure login, token wallet, and token exchange.",
+    id: 'xao-dao',
+    title: 'XAO DAO',
+    description: "The world's first Decentralized Autonomous Organization for the XRP Ledger.",
     url: 'https://metamask.io/',
-    img_url: '/XRP/MetaMask.png',
+    img_url: 'https://www.xaodao.io/',
     position: { x: 250, y: 0 },
     orbit: 'inner'
   },
   {
-    id: 'polygon',
-    title: 'Polygon',
-    description: 'Unifying liquidity across Polygon protocols and solving multi-chain interoperability.',
-    url: 'https://polygon.technology/ https://portal.polygon.technology/',
-    img_url: '/XRP/polygon.png',
+    id: 'xaman',
+    title: 'Xaman',
+    description: 'The Leading Self-Custody Wallet. Secure Your XRP with Confidence.',
+    url: 'https://xaman.app/',
+    img_url: '/XRP/Xaman.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
   },
   {
-    id: 'arbitrum',
-    title: 'Arbitrum',
-    description: 'A unified blockchain for everyone,where ideas thrive and boundaries fade.',
-    url: 'https://arbitrum.io/ https://portal.arbitrum.io/',
-    img_url: '/XRP/arbitrum.png',
+    id: 'flare-network',
+    title: 'Flare Network',
+    description: 'Flare Network enables DeFi, smart contracts, and seamless multi-chain blockchain interoperability.',
+    url: 'https://flare.network/',
+    img_url: '/XRP/Flare Network.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
   },
   {
-    id: 'aave',
-    title: 'Aave',
-    description: 'Aave is the world’s largest liquidity protocol. Supply, borrow, swap, stake and more.',
-    url: 'https://aave.com/',
-    img_url: '/XRP/aave.png',
+    id: 'future-verse',
+    title: 'FutureVerse',
+    description: 'We power global brands to create content that moves.',
+    url: 'https://www.futureverse.com/',
+    img_url: '/XRP/FutureVerse.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
   },
   {
-    id: 'chainlink',
-    title: 'Chainlink',
-    description: 'Chainlink is the industry standard Web3 services platform connecting the people, business and date.',
-    url: 'https://chain.link/',
-    img_url: '/XRP/chainlink.png',
+    id: 'ripple',
+    title: 'Ripple',
+    description: 'Modernize your financial infrastructure with Ripple.',
+    url: 'https://ripple.com/',
+    img_url: '/XRP/Ripple.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
   },
   //outer
    {
-    id: 'meta-mask',
-    title: 'Metamask',
-    description: "MetaMask equips you with a key vault, secure login, token wallet, and token exchange.",
-    url: 'https://metamask.io/',
-    img_url: '/XRP/MetaMask.png',
-    position: { x: 250, y: 0 },
-    orbit: 'outer'
-  },
-  {
-    id: 'polygon',
-    title: 'Polygon',
-    description: 'Unifying liquidity across Polygon protocols and solving multi-chain interoperability.',
-    url: 'https://polygon.technology/ https://portal.polygon.technology/',
-    img_url: '/XRP/polygon.png',
-    position: { x: 77.25, y: 238.5 },
-    orbit: 'outer'
-  },
-  {
-    id: 'arbitrum',
-    title: 'Arbitrum',
-    description: 'A unified blockchain for everyone,where ideas thrive and boundaries fade.',
-    url: 'https://arbitrum.io/ https://portal.arbitrum.io/',
-    img_url: '/XRP/arbitrum.png',
-    position: { x: -202.25, y: 147.0 },
-    orbit: 'outer'
-  },
-  {
-    id: 'aave',
+    id: 'Aave',
     title: 'Aave',
-    description: 'Aave is the world’s largest liquidity protocol. Supply, borrow, swap, stake and more.',
+    description: "Aave is the world's largest liquidity protocol. Supply, borrow, swap, stake and more.",
     url: 'https://aave.com/',
     img_url: '/XRP/aave.png',
-    position: { x: -202.25, y: -147.0 },
+    position: { x: 250, y: 0 },
     orbit: 'outer'
   },
   {
     id: 'chainlink',
     title: 'Chainlink',
-    description: 'Chainlink is the industry standard Web3 services platform connecting the people, business and date.',
-    url: 'https://aave.com/',
-    img_url: '/XRP/chainlink.png',
+    description: 'Chainlink is the only all-in-one oracle platform for creating workflows across blockchains and legacy systems.',
+    url: 'https://chain.link/',
+    img_url: '/XRP/chainlink-light.png',
+    position: { x: 77.25, y: 238.5 },
+    orbit: 'outer'
+  },
+  {
+    id: 'uniswap',
+    title: 'Uniswap',
+    description: 'Swap anytime, anywhere.',
+    url: 'https://app.uniswap.org/',
+    img_url: '/XRP/uniswap.png',
+    position: { x: -202.25, y: 147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'usdc-c',
+    title: 'Circle (USDC)',
+    description: 'Make money movement your competitive edge',
+    url: 'https://www.circle.com/usdc',
+    img_url: '/XRP/circle.png',
+    position: { x: -202.25, y: -147.0 },
+    orbit: 'outer'
+  },
+  {
+    id: 'base',
+    title: 'Base',
+    description: 'Create, earn, trade, discover apps, and chat with friends all in one place.',
+    url: 'https://join.base.app/',
+    img_url: '/XRP/base.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'
   },

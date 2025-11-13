@@ -46,11 +46,11 @@ const projects: ProjectCard[] = [
     orbit: 'inner'
   },
   {
-    id: 'tumefm',
-    title: 'Tume.FM',
-    description: 'Web3 decentralized music streaming platform & music NFT marketplace.',
-    url: 'https://tune.fm/',
-    img_url: '/XRP/tumefm.png',
+    id: 'google-cloud',
+    title: 'Google Cloud',
+    description: 'Hedera has been added to @GoogleCloud BigQuery public datasets, enabling highly scalable cross-chain data accessibility.',
+    url: 'https://cloud.google.com/',
+    img_url: '/XRP/cloud.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
   },
@@ -65,20 +65,20 @@ const projects: ProjectCard[] = [
   },
   //outer
   {
-    id: 'hash-pack',
-    title: 'Hashpack',
-    description: "HashPack is your gateway to Hedera dApps, DeFi and NFTs.",
-    url: 'https://www.hashpack.app/',
-    img_url: '/XRP/Hashpack.png',
+    id: 'dell',
+    title: 'Dell',
+    description: "Drive innovation from anywhere",
+    url: 'https://www.dell.com/en-vn',
+    img_url: '/XRP/dell.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
   },
   {
-    id: 'hedera-rwa-studio',
-    title: 'Hedera RWA Studio',
-    description: 'Open source toolkit for the configuration, issuance, and management of RWA(s).',
-    url: 'https://hedera.com/asset-tokenization-studio',
-    img_url: '/XRP/hedera-rwa-studio.png',
+    id: 'ibm',
+    title: 'IBM',
+    description: 'American multi-national technology company that provides hardware, software and cloud computing.',
+    url: 'https://www.ibm.com/us-en',
+    img_url: '/XRP/ibm.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
   },
@@ -91,12 +91,21 @@ const projects: ProjectCard[] = [
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
   },
+  // {
+  //   id: 'tumefm',
+  //   title: 'Tume.FM',
+  //   description: 'Web3 decentralized music streaming platform & music NFT marketplace.',
+  //   url: 'https://chain.link/',
+  //   img_url: '/XRP/tumefm.png',
+  //   position: { x: -202.25, y: -147.0 },
+  //   orbit: 'outer'
+  // },
   {
-    id: 'tumefm',
-    title: 'Tume.FM',
-    description: 'Web3 decentralized music streaming platform & music NFT marketplace.',
-    url: 'https://tune.fm/',
-    img_url: '/XRP/tumefm.png',
+    id: 'chainlink',
+    title: 'Chainlink',
+    description: 'Chainlink is the only all-in-one oracle platform for creating workflows across blockchains and legacy systems.',
+    url: 'https://chain.link/',
+    img_url: '/XRP/chainlink-light.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
   },
@@ -109,7 +118,7 @@ const projects: ProjectCard[] = [
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'
   },
- ]
+]
 
 export default function Home() {
   const [showOrbits, setShowOrbits] = useState(false)

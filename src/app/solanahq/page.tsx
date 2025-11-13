@@ -19,20 +19,20 @@ interface ProjectCard {
 
 const projects: ProjectCard[] = [
   {
-    id: 'jito-labs',
-    title: 'Jito Labs',
-    description: "Jito Labs builds high performance Solana MEV infrastructure.",
-    url: 'https://www.jito.wtf/',
-    img_url: '/XRP/jito-labs.png',
+    id: 'sofi',
+    title: 'SoFi',
+    description: "The first and only National Consumer bank with Crypto.",
+    url: 'https://www.sofi.com/',
+    img_url: '/XRP/sofi.png',
     position: { x: 250, y: 0 },
     orbit: 'inner'
   },
   {
-    id: 'radium',
-    title: 'Radium',
-    description: 'An on-chain order book AMM powering the evolution of DeFi.',
-    url: 'https://raydium.io/swap/',
-    img_url: '/XRP/radium.png',
+    id: 'western-union',
+    title: 'Western Union',
+    description: 'Send money online from the United States at our best price',
+    url: 'https://www.westernunion.com/vn/en/home.html',
+    img_url: '/XRP/westborn.svg',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
   },
@@ -46,48 +46,48 @@ const projects: ProjectCard[] = [
     orbit: 'inner'
   },
   {
-    id: 'superstate',
-    title: 'Superstate',
-    description: 'Connecting assets with crypto markets via on-chain listings and tokenized securities.',
-    url: 'https://superstate.com/?utm_source=rwa.xyz&utm_medium=referral',
-    img_url: '/XRP/superstate.png',
+    id: 'gemini',
+    title: 'Gemini',
+    description: 'Earn Solana back on every purchase. Instantly.',
+    url: 'https://www.gemini.com/credit-card/solana',
+    img_url: '/XRP/gemini.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
   },
   {
-    id: 'sol',
-    title: 'SOL Strategies ',
-    description: 'Take a Stake into the Future of Solana’s potential.',
-    url: 'https://solstrategies.io/',
-    img_url: '/XRP/sol.png',
+    id: 'radium',
+    title: 'Radium ',
+    description: 'An on-chain order book AMM powering the evolution of DeFi.',
+    url: 'https://raydium.io/swap/',
+    img_url: '/XRP/radium.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'inner'
   },
   //outer
   {
-    id: 'jito-labs',
-    title: 'Jito Labs',
-    description: "Jito Labs builds high performance Solana MEV infrastructure.",
-    url: 'https://www.jito.wtf/',
-    img_url: '/XRP/jito-labs.png',
+    id: 'pudgy-penguins',
+    title: 'Pudgy Penguins $PENGU',
+    description: "Community‑driven Pudgy Penguins meme token on Solana, utility via culture and access.",
+    url: 'https://pudgypenguins.com/',
+    img_url: '/XRP/pengu.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
   },
   {
-    id: 'radium',
-    title: 'Radium',
-    description: 'An on-chain order book AMM powering the evolution of DeFi.',
-    url: 'https://raydium.io/swap/',
-    img_url: '/XRP/radium.png',
+    id: 'bullish',
+    title: 'Bullish',
+    description: 'Solana‑native stablecoins power Bullish’s institutional trading, clearing and settlement infrastructure.',
+    url: 'https://www.bullish.com/us',
+    img_url: '/XRP/bullish.svg',
     position: { x: 77.25, y: 238.5 },
     orbit: 'outer'
   },
   {
-    id: 'ondo-finance',
-    title: 'Ondo Finance',
-    description: 'Institutional-grade platforms, assets, and infrastructure to bring financial markets onchain.',
-    url: 'https://ondo.finance/',
-    img_url: '/XRP/ondo-finance.png',
+    id: 'grayscale',
+    title: 'Grayscale',
+    description: 'Grayscale Solana Trust ETF $GSOL Exposure to one of the fastest-growing digital assets',
+    url: 'https://etfs.grayscale.com/gsol',
+    img_url: '/XRP/grayscle.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
   },
@@ -101,11 +101,11 @@ const projects: ProjectCard[] = [
     orbit: 'outer'
   },
   {
-    id: 'sol',
-    title: 'SOL Strategies ',
-    description: 'Take a Stake into the Future of Solana’s potential.',
-    url: 'https://solstrategies.io/',
-    img_url: '/XRP/sol.png',
+    id: 'circle-usyc',
+    title: 'Circle $USYC',
+    description: 'Circle’s yield‑bearing tokenized money‑market fund shares on Solana for institutions',
+    url: 'https://www.circle.com/',
+    img_url: '/XRP/circle-usyc.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'
   },
