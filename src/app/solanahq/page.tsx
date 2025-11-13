@@ -23,7 +23,7 @@ const projects: ProjectCard[] = [
     title: 'SoFi',
     description: "The first and only National Consumer bank with Crypto.",
     url: 'https://www.sofi.com/',
-    img_url: '/XRP/sofi.png',
+    img_url: '/XRP/sofi.svg',
     position: { x: 250, y: 0 },
     orbit: 'inner'
   },
@@ -32,7 +32,7 @@ const projects: ProjectCard[] = [
     title: 'Western Union',
     description: 'Send money online from the United States at our best price',
     url: 'https://www.westernunion.com/vn/en/home.html',
-    img_url: '/XRP/westborn.svg',
+    img_url: '/XRP/ws.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
   },
@@ -69,7 +69,7 @@ const projects: ProjectCard[] = [
     title: 'Pudgy Penguins $PENGU',
     description: "Community‑driven Pudgy Penguins meme token on Solana, utility via culture and access.",
     url: 'https://pudgypenguins.com/',
-    img_url: '/XRP/pengu.png',
+    img_url: '/XRP/pp.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
   },
@@ -105,7 +105,7 @@ const projects: ProjectCard[] = [
     title: 'Circle $USYC',
     description: 'Circle’s yield‑bearing tokenized money‑market fund shares on Solana for institutions',
     url: 'https://www.circle.com/',
-    img_url: '/XRP/circle-usyc.png',
+    img_url: '/XRP/Circleus.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'
   },
