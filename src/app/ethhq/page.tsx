@@ -30,7 +30,7 @@ const projects: ProjectCard[] = [
   {
     id: 'bitmine',
     title: 'Bitmine',
-    description: 'Establishing the World's Premier Ethereum Treasury',
+    description: "Establishing the World's Premier Ethereum Treasury",
     url: 'https://www.bitminetech.io/',
     img_url: '/XRP/bitmine.png',
     position: { x: 77.25, y: 238.5 },

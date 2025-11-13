@@ -1,9 +1,3 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/solanahq/page": "app/solanahq/page.js",
-  "/page": "app/page.js",
-  "/ethhq/page": "app/ethhq/page.js",
-  "/hederahq/page": "app/hederahq/page.js",
-  "/stellarhq/page": "app/stellarhq/page.js",
-  "/yelohq/page": "app/yelohq/page.js"
+  "/_not-found/page": "app/_not-found/page.js"
 }
