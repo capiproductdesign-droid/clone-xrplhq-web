@@ -197,7 +197,7 @@ export default function Home() {
             whileTap={{ scale: 0.95 }}
           >
             <img 
-              src="/XRP/solana.png" 
+              src="/XRP/solanahq.png" 
               alt="solana" 
               className="w-full h-full object-cover" 
             />
