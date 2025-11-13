@@ -19,20 +19,20 @@ interface ProjectCard {
 
 const projects: ProjectCard[] = [
   {
-    id: 'archax',
-    title: 'Archax',
-    description: "The first-ever tokenized money market fund on Algorand with Archax.",
-    url: 'https://archax.com/',
-    img_url: '/XRP/archax.png',
+    id: 'google-cloud-tech',
+    title: 'Google Cloud Tech',
+    description: "Scalable cloud platform offering AI, data, storage, and compute for global innovation.",
+    url: 'https://x.com/GoogleCloudTech',
+    img_url: '/XRP/cloud.png',
     position: { x: 250, y: 0 },
     orbit: 'inner'
   },
   {
-    id: 'paycode',
-    title: 'Paycode',
-    description: 'Paycode delivers biometric identity and affordable financial services to underserved rural communities.',
-    url: 'https://www.paycode.com/',
-    img_url: '/XRP/paycode.png',
+    id: 'lofty',
+    title: 'Lofty',
+    description: 'The NASDAQ for Real Estate',
+    url: 'https://www.lofty.ai/',
+    img_url: '/XRP/Lofty.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
   },

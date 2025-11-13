@@ -37,11 +37,11 @@ const projects: ProjectCard[] = [
     orbit: 'inner'
   },
   {
-    id: 'rootstock',
-    title: 'Rootstock',
-    description: 'Do more with Bitcoin on Rootstock.The Bitcoin DeFi Layer.',
-    url: 'https://rootstock.io/',
-    img_url: '/XRP/rootstock.png',
+    id: 'strike',
+    title: 'Strike',
+    description: 'Ultra-low fees, no limits, superior security, and real, human support.',
+    url: 'https://strike.me/en/',
+    img_url: '/XRP/strike.png',
     position: { x: -202.25, y: 147.0 },
     orbit: 'inner'
   },
@@ -64,21 +64,30 @@ const projects: ProjectCard[] = [
     orbit: 'inner'
   },
   {
-    id: 'lightning-network',
-    title: 'Lightning Network',
-    description: "Scalable, Instant Bitcoin/Blockchain Transactions.",
-    url: 'https://lightning.network/#intro',
-    img_url: '/XRP/lightning-network.png',
+    id: 'hut8',
+    title: 'Hut 8',
+    description: "Hut 8 builds and operates power and compute infrastructure for transformative technologies.",
+    url: 'https://www.hut8.com/',
+    img_url: '/XRP/Hut8.png',
     position: { x: 250, y: 0 },
     orbit: 'outer'
   },
   {
-    id: 'metaplanet',
-    title: 'Metaplanet',
-    description: 'Japan’s first and only publicly listed Bitcoin Treasury Company.',
-    url: 'https://metaplanet.jp/en',
+    id: 'bitcoin',
+    title: 'Bitcoin.com',
+    description: 'All you need to buy, own, and manage Bitcoin & crypto - take control of your financial future today.',
+    url: 'https://www.bitcoin.com/',
     img_url: '/XRP/metaplanet.png',
     position: { x: 77.25, y: 238.5 },
+    orbit: 'outer'
+  },
+  {
+    id: 'binance',
+    title: 'Binance',
+    description: 'Global cryptocurrency exchange offering trading, custody, staking, and blockchain ecosystem services worldwide.',
+    url: 'https://www.binance.com/',
+    img_url: '/XRP/Binance.png',
+    position: { x: -202.25, y: 147.0 },
     orbit: 'outer'
   },
   {
@@ -87,24 +96,15 @@ const projects: ProjectCard[] = [
     description: 'Do more with Bitcoin on Rootstock.The Bitcoin DeFi Layer.',
     url: 'https://rootstock.io/',
     img_url: '/XRP/rootstock.png',
-    position: { x: -202.25, y: 147.0 },
-    orbit: 'outer'
-  },
-  {
-    id: 'stacks',
-    title: 'Stacks',
-    description: 'Activate the Bitcoin economy with the leading Bitcoin L2.',
-    url: 'https://www.stacks.co/',
-    img_url: '/XRP/stacks.png',
     position: { x: -202.25, y: -147.0 },
     orbit: 'outer'
   },
   {
-    id: 'strategy',
-    title: 'Strategy',
-    description: 'Strategy helps you seamlessly integrate and engage with data.',
-    url: 'https://www.strategy.com/',
-    img_url: '/XRP/strategy.png',
+    id: 'twenty-one-capital',
+    title: 'Twenty One Capital',
+    description: 'A model built on Bitcoin’s fixed supply, designed for investors, institutions, and capital allocators.',
+    url: 'https://xxi.money/',
+    img_url: '/XRP/toc.png',
     position: { x: 77.25, y: -238.5 },
     orbit: 'outer'
   },
