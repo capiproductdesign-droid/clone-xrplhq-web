@@ -32,7 +32,7 @@ const projects: ProjectCard[] = [
     title: 'Lofty',
     description: 'The NASDAQ for Real Estate',
     url: 'https://www.lofty.ai/',
-    img_url: '/XRP/Lofty.png',
+    img_url: '/XRP/lofty.png',
     position: { x: 77.25, y: 238.5 },
     orbit: 'inner'
   },
