@@ -50,7 +50,7 @@ const projects: ProjectCard[] = [
     title: 'Evernorth',
     description: 'Institutional Digital Asset Treasury Company for $XRP',
     url: 'https://www.prnewswire.com/news/evernorth-holdings-inc./',
-    img_url: '/XRP/evernorth.png',
+    img_url: '/XRP/evernorth.jpeg',
     position: { x: -202.25, y: -147.0 },
     orbit: 'inner'
   },
